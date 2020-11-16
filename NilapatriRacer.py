@@ -28,7 +28,7 @@ car_width = 73
 
 clock = pygame.time.Clock()
 
-carImg = pygame.image.load('car.png')
+carImg = pygame.image.load('box.png')
 gameIcon = pygame.image.load('car.png')
 
 pygame.display.set_icon(gameIcon)
